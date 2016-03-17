@@ -1,0 +1,4 @@
+this is hadoop test string
+hadoop hadoop
+test test
+string string string
